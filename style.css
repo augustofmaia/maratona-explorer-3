@@ -5,7 +5,7 @@
   }
   
   body {
-    background-color: #ffedd5;
+    background-color: #b8623a;
     font-family: 'roboto', sans-serif;
   }
   
@@ -39,7 +39,7 @@
   }
   
   header h1 span{
-    color: #995000; 
+    color: #a51a01; 
   }
   
   header p{
@@ -54,7 +54,7 @@
   }
   
   section h2 {
-    background-color: #FED7AA;
+    background-color: #febbaa;
     padding: 8px 16px;
     text-align: center;
   
