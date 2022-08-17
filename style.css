@@ -39,7 +39,7 @@
   }
   
   header h1 span{
-    color: #a51a01; 
+    color: #a53622; 
   }
   
   header p{
@@ -54,7 +54,8 @@
   }
   
   section h2 {
-    background-color: #febbaa;
+    background-color: #a53622;
+    
     padding: 8px 16px;
     text-align: center;
   
